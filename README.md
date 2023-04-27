@@ -1,1 +1,1 @@
-# -yummy-team-project
+# yummy-team-project
